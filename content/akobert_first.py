@@ -3,6 +3,5 @@
 
 print("Hello World")
 
-print("Goodbye?")
 
-print("Or Not")
+print("Goodbye... Forever")
